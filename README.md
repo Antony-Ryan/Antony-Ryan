@@ -1,7 +1,7 @@
 <div align="center">
 	<a href="https://Antony-Ryan.github.io">
 		<img height="100" src="https://github.com/Antony-Ryan.png" alt="My avatar">
-		<h1>Antony Ryan.👍</h1>
+		<h1>Antony Ryan.👍👍</h1>
 	</a>
 </div>
 &nbsp;
